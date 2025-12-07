@@ -1,0 +1,5 @@
+{
+  "name": "Screen2Code - Gemini Edition",
+  "description": "Convert website screenshots into responsive HTML/Tailwind code using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
